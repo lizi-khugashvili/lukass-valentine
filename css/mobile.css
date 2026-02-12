@@ -1,0 +1,19 @@
+@media (max-width: 474px) {
+  .text_h1 {
+    font-size: 1px !important;
+  }
+
+  .left {
+    margin-top: -20px;
+  }
+
+  .right {
+    margin-top: -15px;
+  }
+}
+
+@media (max-width: 447px) {
+  .flowers{
+    max-width: 120px;
+  }
+}
